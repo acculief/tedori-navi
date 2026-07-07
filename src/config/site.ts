@@ -1,5 +1,4 @@
-export const SITE_URL = "https://acculief.github.io/tedori-navi";
-export const BASE_PATH = "/tedori-navi";
+export const SITE_URL = "https://tedori-navi.vercel.app";
 
 /** サイトコンテンツの初回公開日（JSON-LD datePublished 用） */
 export const CONTENT_PUBLISHED_DATE = "2026-07-07";
