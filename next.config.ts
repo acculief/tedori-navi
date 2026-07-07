@@ -1,3 +1,13 @@
 import type { NextConfig } from "next";
-const nextConfig: NextConfig = { trailingSlash: true };
+
+const isProd = process.env.NODE_ENV === "production";
+const basePath = isProd ? "/tedori-navi" : "";
+
+const nextConfig: NextConfig = {
+  output: "export",
+  trailingSlash: true,
+  basePath,
+  images: { unoptimized: true },
+};
+
 export default nextConfig;

@@ -1,4 +1,5 @@
 import { MetadataRoute } from "next";
+export const dynamic = "force-static";
 import { SITE_URL } from "@/config/site";
 
 const BASE_URL = SITE_URL;
