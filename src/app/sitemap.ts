@@ -19,6 +19,7 @@ const routes = [
   { path: "/furusato-nozei-jougen/", priority: 0.8 },
   { path: "/jyuuminzei-keisan/", priority: 0.8 },
   { path: "/shotokuzei-keisan/", priority: 0.8 },
+  { path: "/kousei-nenkin-hokenryou/", priority: 0.8 },
   { path: "/about/", priority: 0.3 },
   { path: "/contact/", priority: 0.3 },
 ];
