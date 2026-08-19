@@ -24,6 +24,7 @@ const routes = [
   { path: "/koyou-hoken-ryou/", priority: 0.8 },
   { path: "/ideco-setsuzei/", priority: 0.8 },
   { path: "/fuyou-103man-kabe/", priority: 0.8 },
+  { path: "/fuyou-130man-kabe/", priority: 0.8 },
   { path: "/about/", priority: 0.3 },
   { path: "/contact/", priority: 0.3 },
 ];
