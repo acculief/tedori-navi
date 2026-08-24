@@ -29,6 +29,7 @@ const routes = [
   { path: "/fuyou-106man-kabe/", priority: 0.8 },
   { path: "/fukugyou-tedori-zei/", priority: 0.8 },
   { path: "/taishokukin-tedori/", priority: 0.8 },
+  { path: "/gessyuu-30man-tedori/", priority: 0.8 },
   { path: "/about/", priority: 0.3 },
   { path: "/contact/", priority: 0.3 },
 ];
