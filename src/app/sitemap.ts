@@ -18,6 +18,7 @@ const routes = [
   { path: "/nennshu-800-tedori/", priority: 0.8 },
   { path: "/nennshu-900-tedori/", priority: 0.8 },
   { path: "/nennshu-1000-tedori/", priority: 0.8 },
+  { path: "/nennshu-1200-tedori/", priority: 0.8 },
   { path: "/bonus-tedori/", priority: 0.8 },
   { path: "/shakai-hoken-ryou/", priority: 0.8 },
   { path: "/furusato-nozei-jougen/", priority: 0.8 },
