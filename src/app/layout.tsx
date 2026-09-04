@@ -19,6 +19,7 @@ const notoSansJP = Noto_Sans_JP({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  verification: { google: "0uJTSoLifNf9F30GBAdAstHG5n6Ci6kGC29csJZbdRM" },
   title: {
     default:
       "手取り計算機｜年収から手取り・税金・社会保険料を即計算【無料】",
