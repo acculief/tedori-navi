@@ -8,6 +8,7 @@ const routes = [
   { path: "/", priority: 1.0 },
   { path: "/tedori-keisan-houhou/", priority: 0.8 },
   { path: "/iryouhi-koujo/", priority: 0.8 },
+  { path: "/shussan-teate-kin/", priority: 0.8 },
   { path: "/nennshu-250-tedori/", priority: 0.8 },
   { path: "/nennshu-300-tedori/", priority: 0.8 },
   { path: "/nennshu-450-tedori/", priority: 0.8 },
