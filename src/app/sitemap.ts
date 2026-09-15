@@ -19,6 +19,7 @@ const routes = [
   { path: "/juutaku-loan-koujo/", priority: 0.8 },
   { path: "/nennshu-550-tedori/", priority: 0.8 },
   { path: "/nennshu-600-tedori/", priority: 0.8 },
+  { path: "/nennshu-650-tedori/", priority: 0.8 },
   { path: "/nennshu-700-tedori/", priority: 0.8 },
   { path: "/nennshu-800-tedori/", priority: 0.8 },
   { path: "/nennshu-900-tedori/", priority: 0.8 },
