@@ -48,6 +48,7 @@ const routes = [
   { path: "/jikyuu-tedori/", priority: 0.8 },
   { path: "/ikukyu-teate-tedori/", priority: 0.8 },
   { path: "/shitsugyou-hoken-kingaku/", priority: 0.8 },
+  { path: "/nenmatsu-chousei-kanpu/", priority: 0.8 },
   { path: "/about/", priority: 0.3 },
   { path: "/contact/", priority: 0.3 },
 ];
