@@ -45,6 +45,7 @@ const routes = [
   { path: "/gessyuu-30man-tedori/", priority: 0.8 },
   { path: "/gessyuu-35man-tedori/", priority: 0.8 },
   { path: "/gessyuu-40man-tedori/", priority: 0.8 },
+  { path: "/gessyuu-45man-tedori/", priority: 0.8 },
   { path: "/gessyuu-25man-tedori/", priority: 0.8 },
   { path: "/gessyuu-20man-tedori/", priority: 0.8 },
   { path: "/jikyuu-tedori/", priority: 0.8 },
