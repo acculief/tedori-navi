@@ -6,6 +6,7 @@ const BASE_URL = SITE_URL;
 
 const routes = [
   { path: "/", priority: 1.0 },
+  { path: "/nennshu-500-tesyudori-kudai/", priority: 0.8 },
   { path: "/fuyou-koujo-ikura/", priority: 0.8 },
   { path: "/seimei-hoken-koujo/", priority: 0.8 },
   { path: "/tedori-keisan-houhou/", priority: 0.8 },
