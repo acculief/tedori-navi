@@ -38,6 +38,7 @@ const routes = [
   { path: "/kousei-nenkin-hokenryou/", priority: 0.8 },
   { path: "/kenkou-hoken-ryou/", priority: 0.8 },
   { path: "/koyou-hoken-ryou/", priority: 0.8 },
+  { path: "/kaigo-hoken-ryou/", priority: 0.8 },
   { path: "/ideco-setsuzei/", priority: 0.8 },
   { path: "/haiguusha-koujo/", priority: 0.8 },
   { path: "/fuyou-103man-kabe/", priority: 0.8 },
