@@ -60,6 +60,7 @@ const routes = [
   { path: "/tsuukin-teate-hikazei/", priority: 0.8 },
   { path: "/juuminzei-hikazei-nenshu/", priority: 0.8 },
   { path: "/kyuuryou-tenbiki-uchiwake/", priority: 0.8 },
+  { path: "/shain-boot-kojin-jigyou-zei/", priority: 0.8 },
   { path: "/about/", priority: 0.3 },
   { path: "/contact/", priority: 0.3 },
 ];
